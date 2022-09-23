@@ -2,7 +2,7 @@
 Implemented the simtrack model based on mindspore
 ## Exploring Simple 3D Multi-Object Tracking for Autonomous Driving
 
-[[Paper]](https://arxiv.org/pdf/2108.10312.pdf) [[Poster]](poster.pdf)
+[[Paper]](https://arxiv.org/pdf/2108.10312.pdf) 
 
 # requirements
 ```

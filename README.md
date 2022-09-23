@@ -4,6 +4,12 @@ Implemented the simtrack model based on mindspore
 
 [[Paper]](https://arxiv.org/pdf/2108.10312.pdf) [[Poster]](poster.pdf)
 
+# requirements
+Ubuntu 20.04
+python=3.8
+mindspore=1.8
+cuda=11.1
+
 ## Getting Started
 
 ### Data Preparation 

@@ -1,5 +1,5 @@
-# simtrack-mindspore
-Implemented the simtrack model based on mindspore
+# simtrack-MindSpore
+Implemented the simtrack model based on MindSpore
 ## Exploring Simple 3D Multi-Object Tracking for Autonomous Driving
 
 [[Paper]](https://arxiv.org/pdf/2108.10312.pdf) 
@@ -8,7 +8,7 @@ Implemented the simtrack model based on mindspore
 ```
 Ubuntu 20.04
 python=3.8
-mindspore=1.8
+MindSpore=1.8
 cuda=11.1
 ```
 
